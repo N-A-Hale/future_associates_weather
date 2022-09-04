@@ -37,6 +37,6 @@ NB: This is the executor script.
 - Pull repo from GitHub.
 - Open Command Prompt and go to *future_associates_weather* directory.
 - Enter **python3 export_weather.py** and press *enter*.
-- If new files have been added, will updated *result* files.
+- If new data has been added, will updated the *result* CSV files.
 
 NB: Python3.10 and Pandas need to be installed. Due to recent reformatting and loss of Windows Subsytem for Linux 2, this has all been scripted in Windows, because of this and time restraints, I have not packaged this. In future I will create a package that can be installed and run on Windows, OS X or Linux.
