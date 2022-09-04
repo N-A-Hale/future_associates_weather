@@ -1,0 +1,169 @@
+,LocalObservationDateTime,EpochTime,WeatherText,WeatherIcon,HasPrecipitation,PrecipitationType,IsDayTime,Temperature,city
+0,2022-08-04T09:55:00+08:00,1659578100, MOstlY ClOudy ,6,False,,True,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", pERTH 
+1,2022-08-04T09:00:00+08:00,1659574800, CloUDY ,7,False,,True,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", PeRtH 
+2,2022-08-04T07:55:00+08:00,1659570900, liGhT rAIN sHOwer ,12,True,Rain,True,"{'Metric': {'Value': 11.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", pErTh 
+3,2022-08-04T06:55:00+08:00,1659567300, LIghT raiN ShowER ,12,True,Rain,False,"{'Metric': {'Value': 10.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 50.0, 'Unit': 'F', 'UnitType': 18}}", perth 
+4,2022-08-04T06:00:00+08:00,1659564000, rAIN sHoWER ,18,True,Rain,False,"{'Metric': {'Value': 10.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 50.0, 'Unit': 'F', 'UnitType': 18}}", PERTH 
+5,2022-08-04T04:55:00+08:00,1659560100, liGHT raiN ,12,True,Rain,False,"{'Metric': {'Value': 11.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", pERth 
+6,2022-08-04T03:55:00+08:00,1659556500, ligHt RAIn ,12,True,Rain,False,"{'Metric': {'Value': 11.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", PERth 
+7,2022-08-04T03:00:00+08:00,1659553200, RaiN ,18,True,Rain,False,"{'Metric': {'Value': 11.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", perTh 
+8,2022-08-04T01:55:00+08:00,1659549300, rain ShoWEr ,18,True,Rain,False,"{'Metric': {'Value': 11.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", PertH 
+9,2022-08-04T00:55:00+08:00,1659545700, A shOwer ,12,True,Rain,False,"{'Metric': {'Value': 11.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", pErTH 
+10,2022-08-03T23:55:00+08:00,1659542100, ClouDY ,7,False,,False,"{'Metric': {'Value': 11.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", PERTH 
+11,2022-08-03T23:00:00+08:00,1659538800, rAIn SHOwEr ,18,True,Rain,False,"{'Metric': {'Value': 11.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", PERTh 
+12,2022-08-03T21:55:00+08:00,1659534900, CLOudY ,7,False,,False,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", peRTh 
+13,2022-08-03T21:00:00+08:00,1659531600, RaIn ShOWEr ,18,True,Rain,False,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", pERTh 
+14,2022-08-03T19:55:00+08:00,1659527700, CLouDy ,7,False,,False,"{'Metric': {'Value': 11.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", PErth 
+15,2022-08-03T19:00:00+08:00,1659524400, HEaVY RaIn sHOwer ,18,True,Rain,False,"{'Metric': {'Value': 11.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", pERth 
+16,2022-08-03T17:55:00+08:00,1659520500, LiGht rAiN SHOWEr ,39,True,Rain,False,"{'Metric': {'Value': 12.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 55.0, 'Unit': 'F', 'UnitType': 18}}", PeRth 
+17,2022-08-03T17:00:00+08:00,1659517200, LigHT rain SHOWer ,13,True,Rain,True,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", pERTh 
+18,2022-08-03T15:55:00+08:00,1659513300, partLy suNNy ,3,False,,True,"{'Metric': {'Value': 16.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 61.0, 'Unit': 'F', 'UnitType': 18}}", PertH 
+19,2022-08-03T15:00:00+08:00,1659510000, ClOuDy ,7,False,,True,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", peRtH 
+20,2022-08-03T13:55:00+08:00,1659506100, MOstly cLoUdY ,6,False,,True,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", PERtH 
+21,2022-08-03T12:55:00+08:00,1659502500, ParTLY sUNNy ,3,False,,True,"{'Metric': {'Value': 16.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 61.0, 'Unit': 'F', 'UnitType': 18}}", perTH 
+22,2022-08-03T12:00:00+08:00,1659499200, liGHt RAIn sHOweR ,12,True,Rain,True,"{'Metric': {'Value': 12.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 55.0, 'Unit': 'F', 'UnitType': 18}}", PerTH 
+23,2022-08-03T10:55:00+08:00,1659495300, tHuNdershOwEr ,15,True,Rain,True,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", PeRTH 
+0,2022-08-04T11:25:00+09:30,1659578100, MOStlY CloUdy ,6,False,,True,"{'Metric': {'Value': 26.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 79.0, 'Unit': 'F', 'UnitType': 18}}", darwIN 
+1,2022-08-04T10:25:00+09:30,1659574500, paRtLY SUNNY ,3,False,,True,"{'Metric': {'Value': 26.4, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 80.0, 'Unit': 'F', 'UnitType': 18}}", dArWin 
+2,2022-08-04T09:25:00+09:30,1659570900, SunNy ,1,False,,True,"{'Metric': {'Value': 25.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 77.0, 'Unit': 'F', 'UnitType': 18}}", dARwiN 
+3,2022-08-04T08:25:00+09:30,1659567300, SUNnY ,1,False,,True,"{'Metric': {'Value': 24.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 77.0, 'Unit': 'F', 'UnitType': 18}}", daRwIn 
+4,2022-08-04T07:25:00+09:30,1659563700, suNny ,1,False,,True,"{'Metric': {'Value': 24.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 76.0, 'Unit': 'F', 'UnitType': 18}}", DARwin 
+5,2022-08-04T06:25:00+09:30,1659560100, cLEAR ,33,False,,False,"{'Metric': {'Value': 24.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 75.0, 'Unit': 'F', 'UnitType': 18}}", DARWin 
+6,2022-08-04T05:25:00+09:30,1659556500, Cloudy ,7,False,,False,"{'Metric': {'Value': 24.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 75.0, 'Unit': 'F', 'UnitType': 18}}", DARWin 
+7,2022-08-04T04:25:00+09:30,1659552900, pARtlY CLouDy ,35,False,,False,"{'Metric': {'Value': 24.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 75.0, 'Unit': 'F', 'UnitType': 18}}", dArwIN 
+8,2022-08-04T03:25:00+09:30,1659549300, CloUDy ,7,False,,False,"{'Metric': {'Value': 24.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 75.0, 'Unit': 'F', 'UnitType': 18}}", DaRwIn 
+9,2022-08-04T02:25:00+09:30,1659545700, cLoUDY ,7,False,,False,"{'Metric': {'Value': 24.3, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 76.0, 'Unit': 'F', 'UnitType': 18}}", dARwin 
+10,2022-08-04T01:25:00+09:30,1659542100, soME CLOudS ,36,False,,False,"{'Metric': {'Value': 24.5, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 76.0, 'Unit': 'F', 'UnitType': 18}}", dArwIn 
+11,2022-08-04T00:25:00+09:30,1659538500, paRTLy cLoudY ,35,False,,False,"{'Metric': {'Value': 24.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 77.0, 'Unit': 'F', 'UnitType': 18}}", DArWin 
+12,2022-08-03T23:25:00+09:30,1659534900, PaRTly cLOUdy ,35,False,,False,"{'Metric': {'Value': 25.3, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 78.0, 'Unit': 'F', 'UnitType': 18}}", dARWIn 
+13,2022-08-03T22:25:00+09:30,1659531300, CLeAr ,33,False,,False,"{'Metric': {'Value': 25.4, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 78.0, 'Unit': 'F', 'UnitType': 18}}", daRwIn 
+14,2022-08-03T21:25:00+09:30,1659527700, CleAR ,33,False,,False,"{'Metric': {'Value': 25.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 78.0, 'Unit': 'F', 'UnitType': 18}}", DARwin 
+15,2022-08-03T20:25:00+09:30,1659524100, cLeAr ,33,False,,False,"{'Metric': {'Value': 28.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 82.0, 'Unit': 'F', 'UnitType': 18}}", dARWin 
+16,2022-08-03T19:25:00+09:30,1659520500, pARTLY cloUDY ,35,False,,False,"{'Metric': {'Value': 28.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 82.0, 'Unit': 'F', 'UnitType': 18}}", Darwin 
+17,2022-08-03T18:25:00+09:30,1659516900, PaRTLy sunNY ,3,False,,True,"{'Metric': {'Value': 27.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 81.0, 'Unit': 'F', 'UnitType': 18}}", dArwIN 
+18,2022-08-03T17:25:00+09:30,1659513300, pARTLy SuNNy ,3,False,,True,"{'Metric': {'Value': 27.5, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 82.0, 'Unit': 'F', 'UnitType': 18}}", DArwin 
+19,2022-08-03T16:25:00+09:30,1659509700, paRTly sUNNY ,3,False,,True,"{'Metric': {'Value': 28.3, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 83.0, 'Unit': 'F', 'UnitType': 18}}", DaRwiN 
+20,2022-08-03T15:25:00+09:30,1659506100, Partly SUNNY ,3,False,,True,"{'Metric': {'Value': 27.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 82.0, 'Unit': 'F', 'UnitType': 18}}", dArwIN 
+21,2022-08-03T14:25:00+09:30,1659502500, MOstLY clOUDY ,6,False,,True,"{'Metric': {'Value': 27.6, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 82.0, 'Unit': 'F', 'UnitType': 18}}", DArwin 
+22,2022-08-03T13:25:00+09:30,1659498900, CLoUDY ,7,False,,True,"{'Metric': {'Value': 26.4, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 80.0, 'Unit': 'F', 'UnitType': 18}}", DArWIn 
+23,2022-08-03T12:25:00+09:30,1659495300, MosTLY cloUDY ,6,False,,True,"{'Metric': {'Value': 25.6, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 78.0, 'Unit': 'F', 'UnitType': 18}}", dArwIn 
+0,2022-08-04T11:55:00+10:00,1659578100, rAIN ,18,True,Rain,True,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", canBerra 
+1,2022-08-04T11:00:00+10:00,1659574800, rain ,18,True,Rain,True,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", cAnBERRA 
+2,2022-08-04T10:00:00+10:00,1659571200, heAVY rAiN ,18,True,Rain,True,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", CAnBErRA 
+3,2022-08-04T08:55:00+10:00,1659567300, heAVy rain ,18,True,Rain,True,"{'Metric': {'Value': 12.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 55.0, 'Unit': 'F', 'UnitType': 18}}", canberRa 
+4,2022-08-04T08:00:00+10:00,1659564000, tHuNDerstORm ,15,True,Rain,True,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", CANbErra 
+5,2022-08-04T06:55:00+10:00,1659560100, CLoudY ,7,False,,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", caNBERRa 
+6,2022-08-04T05:55:00+10:00,1659556500, LIGhT RAIn SHower ,12,True,Rain,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", cANbErRA 
+7,2022-08-04T05:00:00+10:00,1659553200, ThUnDeRStORM ,15,True,Rain,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", CANBErrA 
+8,2022-08-04T03:55:00+10:00,1659549300, LIGht rAin SHowER ,12,True,Rain,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", CanBErrA 
+9,2022-08-04T03:00:00+10:00,1659546000, LiGHT rain ,12,True,Rain,False,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", cAnBerrA 
+10,2022-08-04T02:00:00+10:00,1659542400, THuNDeRStOrm ,15,True,Rain,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", CaNbErRa 
+11,2022-08-04T01:00:00+10:00,1659538800, THunDershoWER ,15,True,Rain,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", CanBERRA 
+12,2022-08-03T23:55:00+10:00,1659534900, PaRtlY CLOuDy ,35,False,,False,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", CAnbERrA 
+13,2022-08-03T22:55:00+10:00,1659531300, MOStLy CLoUDY ,38,False,,False,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", cAnBERrA 
+14,2022-08-03T21:55:00+10:00,1659527700, MOstLY cLOuDy ,38,False,,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", CanBERRA 
+15,2022-08-03T20:55:00+10:00,1659524100, mOstly cLoUDY ,38,False,,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", canbeRRa 
+16,2022-08-03T19:55:00+10:00,1659520500, MosTLY CLoudY ,38,False,,False,"{'Metric': {'Value': 12.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 55.0, 'Unit': 'F', 'UnitType': 18}}", canBERRA 
+17,2022-08-03T18:55:00+10:00,1659516900, pArtlY CLoUDy ,35,False,,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", CanBeRRa 
+18,2022-08-03T17:55:00+10:00,1659513300, partly clOUDY ,35,False,,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", CaNberRa 
+19,2022-08-03T16:55:00+10:00,1659509700, partLY SUnNY ,3,False,,True,"{'Metric': {'Value': 16.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 61.0, 'Unit': 'F', 'UnitType': 18}}", CAnberRa 
+20,2022-08-03T16:00:00+10:00,1659506400, partly SUNNY ,3,False,,True,"{'Metric': {'Value': 17.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 63.0, 'Unit': 'F', 'UnitType': 18}}", canBerrA 
+21,2022-08-03T14:55:00+10:00,1659502500, pArtlY SUnnY ,3,False,,True,"{'Metric': {'Value': 17.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 63.0, 'Unit': 'F', 'UnitType': 18}}", caNBERRA 
+22,2022-08-03T13:55:00+10:00,1659498900, cLOudy ,7,False,,True,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", CanBeRRa 
+23,2022-08-03T12:55:00+10:00,1659495300, ClouDY ,7,False,,True,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", CanBErrA 
+0,2022-08-04T12:00:00+10:00,1659578400, CLOudS and SuN ,4,False,,True,"{'Metric': {'Value': 14.3, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 58.0, 'Unit': 'F', 'UnitType': 18}}", hOBART 
+1,2022-08-04T11:00:00+10:00,1659574800, PaRTLy SunNy ,3,False,,True,"{'Metric': {'Value': 13.3, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 56.0, 'Unit': 'F', 'UnitType': 18}}", HoBart 
+2,2022-08-04T10:00:00+10:00,1659571200, MOStLY suNny ,2,False,,True,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", hOBarT 
+3,2022-08-04T09:00:00+10:00,1659567600, mOsTLY SunNY ,2,False,,True,"{'Metric': {'Value': 11.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", hoBarT 
+4,2022-08-04T08:00:00+10:00,1659564000, moSTly suNnY ,2,False,,True,"{'Metric': {'Value': 10.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 50.0, 'Unit': 'F', 'UnitType': 18}}", hoBarT 
+5,2022-08-04T07:00:00+10:00,1659560400, PArTLY cLOudY ,35,False,,False,"{'Metric': {'Value': 9.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 50.0, 'Unit': 'F', 'UnitType': 18}}", HoBaRT 
+6,2022-08-04T06:00:00+10:00,1659556800, soME CLOuDs ,36,False,,False,"{'Metric': {'Value': 9.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 50.0, 'Unit': 'F', 'UnitType': 18}}", HoBArt 
+7,2022-08-04T05:00:00+10:00,1659553200, clOudy ,7,False,,False,"{'Metric': {'Value': 8.3, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 47.0, 'Unit': 'F', 'UnitType': 18}}", HobART 
+8,2022-08-04T04:00:00+10:00,1659549600, CLoUdY ,7,False,,False,"{'Metric': {'Value': 8.6, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 47.0, 'Unit': 'F', 'UnitType': 18}}", HobART 
+9,2022-08-04T03:00:00+10:00,1659546000, CLouDY ,7,False,,False,"{'Metric': {'Value': 10.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 50.0, 'Unit': 'F', 'UnitType': 18}}", hoBArt 
+10,2022-08-04T02:00:00+10:00,1659542400, cLOuDy ,7,False,,False,"{'Metric': {'Value': 9.4, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 49.0, 'Unit': 'F', 'UnitType': 18}}", HoBARt 
+11,2022-08-04T01:00:00+10:00,1659538800, SomE ClOuds ,36,False,,False,"{'Metric': {'Value': 10.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 50.0, 'Unit': 'F', 'UnitType': 18}}", HObARt 
+12,2022-08-04T00:00:00+10:00,1659535200, PARTLY CLouDy ,35,False,,False,"{'Metric': {'Value': 10.5, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 51.0, 'Unit': 'F', 'UnitType': 18}}", HobarT 
+13,2022-08-03T23:00:00+10:00,1659531600, MOStLy cLeAR ,34,False,,False,"{'Metric': {'Value': 10.6, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 51.0, 'Unit': 'F', 'UnitType': 18}}", HOBaRT 
+14,2022-08-03T22:00:00+10:00,1659528000, moStlY CLEaR ,34,False,,False,"{'Metric': {'Value': 10.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 52.0, 'Unit': 'F', 'UnitType': 18}}", hoBArt 
+15,2022-08-03T21:00:00+10:00,1659524400, mOSTly ClEAR ,34,False,,False,"{'Metric': {'Value': 11.4, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 53.0, 'Unit': 'F', 'UnitType': 18}}", HobARt 
+16,2022-08-03T20:00:00+10:00,1659520800, MOStly CleAR ,34,False,,False,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", hOBarT 
+17,2022-08-03T19:00:00+10:00,1659517200, parTly CLOuDy ,35,False,,False,"{'Metric': {'Value': 12.7, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 55.0, 'Unit': 'F', 'UnitType': 18}}", hObART 
+18,2022-08-03T18:00:00+10:00,1659513600, SOMe CLOuDs ,36,False,,False,"{'Metric': {'Value': 13.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 56.0, 'Unit': 'F', 'UnitType': 18}}", hoBaRT 
+19,2022-08-03T17:00:00+10:00,1659510000, ClOUdY ,7,False,,True,"{'Metric': {'Value': 13.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", HoBART 
+20,2022-08-03T16:00:00+10:00,1659506400, CLouDY ,7,False,,True,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", hobarT 
+21,2022-08-03T15:00:00+10:00,1659502800, MOSTLY clOUdY ,6,False,,True,"{'Metric': {'Value': 14.6, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 58.0, 'Unit': 'F', 'UnitType': 18}}", hoBArT 
+22,2022-08-03T14:00:00+10:00,1659499200, moSTLy Cloudy ,6,False,,True,"{'Metric': {'Value': 15.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", hobaRt 
+23,2022-08-03T13:00:00+10:00,1659495600, mOSTlY cLOUdy ,6,False,,True,"{'Metric': {'Value': 14.7, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 58.0, 'Unit': 'F', 'UnitType': 18}}", HOBarT 
+0,2022-08-04T12:00:00+10:00,1659578400, mOSTLy cLouDy ,6,False,,True,"{'Metric': {'Value': 17.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 63.0, 'Unit': 'F', 'UnitType': 18}}", MeLBOUrNe 
+1,2022-08-04T10:55:00+10:00,1659574500, mOstlY CLoUDy ,6,False,,True,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", MeLBouRNe 
+2,2022-08-04T09:55:00+10:00,1659570900, MoSTly ClOUdy ,7,False,,True,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", mElBOUrne 
+3,2022-08-04T08:55:00+10:00,1659567300, mostLY cloudY ,7,False,,True,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", mELBOurNe 
+4,2022-08-04T07:55:00+10:00,1659563700, mOstlY ClOUdy ,3,False,,True,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", mELboUrNe 
+5,2022-08-04T06:55:00+10:00,1659560100, moSTLy cloudy ,33,False,,False,"{'Metric': {'Value': 12.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 55.0, 'Unit': 'F', 'UnitType': 18}}", meLbOuRNe 
+6,2022-08-04T05:55:00+10:00,1659556500, mOSTLY CloUDy ,33,False,,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", melbouRNE 
+7,2022-08-04T04:55:00+10:00,1659552900, MOStLy ClOUDy ,33,False,,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", meLBourNe 
+8,2022-08-04T03:55:00+10:00,1659549300, MOsTlY clOudy ,33,False,,False,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", melBOuRNe 
+9,2022-08-04T02:55:00+10:00,1659545700, MOstly ClOUdY ,33,False,,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", Melbourne 
+10,2022-08-04T01:55:00+10:00,1659542100, MoStLY cLOUdY ,33,False,,False,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", MeLbourNE 
+11,2022-08-04T00:55:00+10:00,1659538500, mOStly CLOudY ,35,False,,False,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", mELboUrne 
+12,2022-08-04T00:00:00+10:00,1659535200, mostlY ClouDy ,35,False,,False,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", mElBoURNe 
+13,2022-08-03T23:00:00+10:00,1659531600, moSTlY CLOUdY ,39,True,Rain,False,"{'Metric': {'Value': 16.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 61.0, 'Unit': 'F', 'UnitType': 18}}", MelbOurNe 
+14,2022-08-03T21:55:00+10:00,1659527700, MOsTLy ClOUdY ,33,False,,False,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", MelbOuRNe 
+15,2022-08-03T20:55:00+10:00,1659524100, moSTlY cLoudy ,35,False,,False,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", melBOUrNE 
+16,2022-08-03T19:55:00+10:00,1659520500, mostLy cLOUDY ,35,False,,False,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", MElBOURNe 
+17,2022-08-03T18:55:00+10:00,1659516900, MoSTLY clOUdy ,35,False,,False,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", MeLbOURnE 
+18,2022-08-03T17:55:00+10:00,1659513300, MOsTly cloUDy ,35,False,,False,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", MelBOurnE 
+19,2022-08-03T16:55:00+10:00,1659509700, MOstly CLouDy ,3,False,,True,"{'Metric': {'Value': 17.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 63.0, 'Unit': 'F', 'UnitType': 18}}", MELBouRnE 
+20,2022-08-03T16:00:00+10:00,1659506400, mOStlY clOUDY ,3,False,,True,"{'Metric': {'Value': 17.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 64.0, 'Unit': 'F', 'UnitType': 18}}", melbouRNE 
+21,2022-08-03T14:55:00+10:00,1659502500, moStLy ClOUdY ,3,False,,True,"{'Metric': {'Value': 17.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 64.0, 'Unit': 'F', 'UnitType': 18}}", MelBOUrnE 
+22,2022-08-03T14:00:00+10:00,1659499200, mOStLY CLoudY ,3,False,,True,"{'Metric': {'Value': 17.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 64.0, 'Unit': 'F', 'UnitType': 18}}", MELbOURne 
+23,2022-08-03T12:55:00+10:00,1659495300, MosTLY CLOUdy ,3,False,,True,"{'Metric': {'Value': 17.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 63.0, 'Unit': 'F', 'UnitType': 18}}", mELboUrNE 
+0,2022-08-04T12:55:00+10:00,1659581700, partly SuNny ,3,False,,True,"{'Metric': {'Value': 22.5, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 72.0, 'Unit': 'F', 'UnitType': 18}}", bRisbane 
+1,2022-08-04T11:55:00+10:00,1659578100, Partly suNNy ,3,False,,True,"{'Metric': {'Value': 22.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 72.0, 'Unit': 'F', 'UnitType': 18}}", BRIsBANE 
+2,2022-08-04T10:55:00+10:00,1659574500, PARTLY sUnnY ,3,False,,True,"{'Metric': {'Value': 20.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 68.0, 'Unit': 'F', 'UnitType': 18}}", brIsbanE 
+3,2022-08-04T09:55:00+10:00,1659570900, pArtly sunny ,3,False,,True,"{'Metric': {'Value': 16.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 62.0, 'Unit': 'F', 'UnitType': 18}}", bRiSBaNe 
+4,2022-08-04T09:00:00+10:00,1659567600, mostLY CLoudY ,6,False,,True,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", bRiSbAnE 
+5,2022-08-04T08:00:00+10:00,1659564000, fOGgY ,11,False,,True,"{'Metric': {'Value': 13.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 57.0, 'Unit': 'F', 'UnitType': 18}}", BRisbane 
+6,2022-08-04T07:00:00+10:00,1659560400, DenSE foG ,11,False,,True,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", BRISbane 
+7,2022-08-04T05:55:00+10:00,1659556500, LIghT fOg ,11,False,,False,"{'Metric': {'Value': 13.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 56.0, 'Unit': 'F', 'UnitType': 18}}", BRIsBane 
+8,2022-08-04T04:55:00+10:00,1659552900, FOGgY ,11,False,,False,"{'Metric': {'Value': 13.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 56.0, 'Unit': 'F', 'UnitType': 18}}", brISBaNE 
+9,2022-08-04T04:00:00+10:00,1659549600, fOGgY ,11,False,,False,"{'Metric': {'Value': 12.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 54.0, 'Unit': 'F', 'UnitType': 18}}", BRISbaNe 
+10,2022-08-04T03:00:00+10:00,1659546000, fOggY ,11,False,,False,"{'Metric': {'Value': 12.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 55.0, 'Unit': 'F', 'UnitType': 18}}", BrISBaNE 
+11,2022-08-04T02:00:00+10:00,1659542400, FOGGy ,11,False,,False,"{'Metric': {'Value': 12.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 55.0, 'Unit': 'F', 'UnitType': 18}}", BRisbanE 
+12,2022-08-04T00:55:00+10:00,1659538500, gRouND FoG ,11,False,,False,"{'Metric': {'Value': 15.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 59.0, 'Unit': 'F', 'UnitType': 18}}", BrIsBANe 
+13,2022-08-03T23:55:00+10:00,1659534900, GROUND fOG ,11,False,,False,"{'Metric': {'Value': 16.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 61.0, 'Unit': 'F', 'UnitType': 18}}", bRISbAnE 
+14,2022-08-03T22:55:00+10:00,1659531300, GROUND foG ,11,False,,False,"{'Metric': {'Value': 15.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 61.0, 'Unit': 'F', 'UnitType': 18}}", BrIsBane 
+15,2022-08-03T21:55:00+10:00,1659527700, groUND fOG ,11,False,,False,"{'Metric': {'Value': 17.2, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 63.0, 'Unit': 'F', 'UnitType': 18}}", BRisBANe 
+16,2022-08-03T21:00:00+10:00,1659524400, GrouNd foG ,11,False,,False,"{'Metric': {'Value': 16.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 61.0, 'Unit': 'F', 'UnitType': 18}}", brIsbANe 
+17,2022-08-03T19:55:00+10:00,1659520500, moSTLy CLEAR ,34,False,,False,"{'Metric': {'Value': 17.3, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 63.0, 'Unit': 'F', 'UnitType': 18}}", BRISBanE 
+18,2022-08-03T18:55:00+10:00,1659516900, pArtly CLouDY ,35,False,,False,"{'Metric': {'Value': 17.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 64.0, 'Unit': 'F', 'UnitType': 18}}", BrISBANE 
+19,2022-08-03T17:55:00+10:00,1659513300, ParTlY Cloudy ,35,False,,False,"{'Metric': {'Value': 18.4, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 65.0, 'Unit': 'F', 'UnitType': 18}}", BRIsBaNe 
+20,2022-08-03T16:55:00+10:00,1659509700, pARTLY SUNny ,3,False,,True,"{'Metric': {'Value': 19.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 68.0, 'Unit': 'F', 'UnitType': 18}}", BRisBanE 
+21,2022-08-03T15:55:00+10:00,1659506100, paRTly sunNy ,3,False,,True,"{'Metric': {'Value': 21.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 71.0, 'Unit': 'F', 'UnitType': 18}}", bRiSbaNE 
+22,2022-08-03T14:55:00+10:00,1659502500, paRtlY sunNY ,3,False,,True,"{'Metric': {'Value': 22.3, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 72.0, 'Unit': 'F', 'UnitType': 18}}", bRisBANe 
+23,2022-08-03T13:55:00+10:00,1659498900, PArtLY SunnY ,3,False,,True,"{'Metric': {'Value': 22.4, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 72.0, 'Unit': 'F', 'UnitType': 18}}", bRisbanE 
+0,2022-08-04T12:00:00+10:00,1659578400, cLouDy ,7,False,,True,"{'Metric': {'Value': 22.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 72.0, 'Unit': 'F', 'UnitType': 18}}", SYDNEY 
+1,2022-08-04T11:00:00+10:00,1659574800, ClOuDy ,7,False,,True,"{'Metric': {'Value': 20.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 68.0, 'Unit': 'F', 'UnitType': 18}}", sYDNey 
+2,2022-08-04T10:00:00+10:00,1659571200, cLoudy ,7,False,,True,"{'Metric': {'Value': 19.6, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 67.0, 'Unit': 'F', 'UnitType': 18}}", sYdNEY 
+3,2022-08-04T09:00:00+10:00,1659567600, mOsTLY clOudY ,6,False,,True,"{'Metric': {'Value': 19.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 66.0, 'Unit': 'F', 'UnitType': 18}}", sYdNEY 
+4,2022-08-04T08:00:00+10:00,1659564000, clouDY ,7,False,,True,"{'Metric': {'Value': 18.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 66.0, 'Unit': 'F', 'UnitType': 18}}", sydnEY 
+5,2022-08-04T07:00:00+10:00,1659560400, cLoUDY ,7,False,,True,"{'Metric': {'Value': 18.6, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 65.0, 'Unit': 'F', 'UnitType': 18}}", sYDNey 
+6,2022-08-04T06:00:00+10:00,1659556800, cLoUDY ,7,False,,False,"{'Metric': {'Value': 18.1, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 65.0, 'Unit': 'F', 'UnitType': 18}}", SydneY 
+7,2022-08-04T05:00:00+10:00,1659553200, CLoUdY ,7,False,,False,"{'Metric': {'Value': 18.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 64.0, 'Unit': 'F', 'UnitType': 18}}", sydNeY 
+8,2022-08-04T04:00:00+10:00,1659549600, some CLOudS ,36,False,,False,"{'Metric': {'Value': 17.5, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 64.0, 'Unit': 'F', 'UnitType': 18}}", SyDNEy 
+9,2022-08-04T03:00:00+10:00,1659546000, PArtLy CLOUdy ,35,False,,False,"{'Metric': {'Value': 17.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 63.0, 'Unit': 'F', 'UnitType': 18}}", syDnEy 
+10,2022-08-04T02:00:00+10:00,1659542400, ClEaR ,33,False,,False,"{'Metric': {'Value': 16.5, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 62.0, 'Unit': 'F', 'UnitType': 18}}", sYDneY 
+11,2022-08-04T01:00:00+10:00,1659538800, CLEAR ,33,False,,False,"{'Metric': {'Value': 16.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 62.0, 'Unit': 'F', 'UnitType': 18}}", sYdneY 
+12,2022-08-04T00:00:00+10:00,1659535200, Clear ,33,False,,False,"{'Metric': {'Value': 17.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 63.0, 'Unit': 'F', 'UnitType': 18}}", SyDnEY 
+13,2022-08-03T23:00:00+10:00,1659531600, ClEaR ,33,False,,False,"{'Metric': {'Value': 17.3, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 63.0, 'Unit': 'F', 'UnitType': 18}}", SYDnEy 
+14,2022-08-03T22:00:00+10:00,1659528000, cLeaR ,33,False,,False,"{'Metric': {'Value': 17.7, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 64.0, 'Unit': 'F', 'UnitType': 18}}", sYdNEY 
+15,2022-08-03T21:00:00+10:00,1659524400, CLEAR ,33,False,,False,"{'Metric': {'Value': 18.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 64.0, 'Unit': 'F', 'UnitType': 18}}", sYDneY 
+16,2022-08-03T20:00:00+10:00,1659520800, clEaR ,33,False,,False,"{'Metric': {'Value': 22.3, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 72.0, 'Unit': 'F', 'UnitType': 18}}", SYdNeY 
+17,2022-08-03T19:00:00+10:00,1659517200, cleaR ,33,False,,False,"{'Metric': {'Value': 22.7, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 73.0, 'Unit': 'F', 'UnitType': 18}}", sydNey 
+18,2022-08-03T18:00:00+10:00,1659513600, clEar ,33,False,,False,"{'Metric': {'Value': 22.8, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 73.0, 'Unit': 'F', 'UnitType': 18}}", SyDnEY 
+19,2022-08-03T17:00:00+10:00,1659510000, sUNny ,1,False,,True,"{'Metric': {'Value': 24.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 77.0, 'Unit': 'F', 'UnitType': 18}}", sYdNEy 
+20,2022-08-03T16:00:00+10:00,1659506400, sUNny ,1,False,,True,"{'Metric': {'Value': 21.7, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 71.0, 'Unit': 'F', 'UnitType': 18}}", SyDnEy 
+21,2022-08-03T15:00:00+10:00,1659502800, sunnY ,1,False,,True,"{'Metric': {'Value': 22.9, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 73.0, 'Unit': 'F', 'UnitType': 18}}", SydNeY 
+22,2022-08-03T14:00:00+10:00,1659499200, SUNNY ,1,False,,True,"{'Metric': {'Value': 21.7, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 71.0, 'Unit': 'F', 'UnitType': 18}}", SydnEy 
+23,2022-08-03T13:00:00+10:00,1659495600, pARtLY suNNY ,3,False,,True,"{'Metric': {'Value': 21.0, 'Unit': 'C', 'UnitType': 17}, 'Imperial': {'Value': 70.0, 'Unit': 'F', 'UnitType': 18}}", sYDnEy 

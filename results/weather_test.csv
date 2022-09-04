@@ -1,0 +1,26 @@
+city,WeatherText,occurences
+perth,cloudy,5
+perth,light rain shower,5
+perth,rain shower,4
+darwin,partly sunny,5
+darwin,clear,4
+darwin,cloudy,4
+darwin,partly cloudy,4
+canberra,mostly cloudy,4
+canberra,cloudy,3
+canberra,partly cloudy,3
+canberra,partly sunny,3
+canberra,thunderstorm,3
+hobart,cloudy,6
+hobart,mostly clear,4
+hobart,mostly cloudy,3
+hobart,mostly sunny,3
+hobart,partly cloudy,3
+hobart,some clouds,3
+melbourne,mostly cloudy,24
+brisbane,partly sunny,8
+brisbane,foggy,5
+brisbane,ground fog,5
+sydney,clear,9
+sydney,cloudy,7
+sydney,sunny,4
