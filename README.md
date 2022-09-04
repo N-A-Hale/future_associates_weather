@@ -33,6 +33,11 @@ Performs key tasks issued in take-home test
 
 NB: This is the executor script.
 
+## Tools and Languages
+- Python 3.10
+- Pandas
+- Numpy
+
 ## How to run
 - Pull repo from GitHub.
 - Open Command Prompt and go to *future_associates_weather* directory.
